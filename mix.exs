@@ -32,7 +32,6 @@ defmodule LoggerTelegramBackend.Mixfile do
       {:exvcr, "~> 0.10", only: :test},
       {:gen_stage, "~> 0.13"},
       {:httpoison, "~> 1.0"},
-      {:poison, "~> 3.1"}
     ]
   end
 
